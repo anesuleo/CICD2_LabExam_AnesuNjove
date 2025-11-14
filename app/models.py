@@ -4,4 +4,3 @@ from sqlalchemy import String, Integer, ForeignKey, UniqueConstraint
 class Base(DeclarativeBase):
     pass
 
-
